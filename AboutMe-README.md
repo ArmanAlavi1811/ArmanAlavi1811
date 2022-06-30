@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ArmanAlavi1811
+- 🌱 I’m currently learning C.
